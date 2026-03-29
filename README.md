@@ -28,6 +28,15 @@ publications of the fastMRI project.
 
 ## Documentation
 
+### Repository-specific Additions
+
+This fork includes additional experimental work for MRI stripe artifact
+analysis and reconstruction workflows.
+
+* Japanese project notes index: [docs/README.md](docs/README.md)
+* MRI stripe reconstruction code: [mri_strip_reconst/](mri_strip_reconst/)
+* Phase experiment helper scripts: [scripts/](scripts/)
+
 ### The fastMRI Dataset
 
 There are multiple publications describing different subcomponents of the data
